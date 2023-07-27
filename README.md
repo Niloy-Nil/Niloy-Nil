@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvLGA1-WFcSItOLOFoJr7QmFmXdzt9mzeEnh7fnxR93LhOc0WKP2NrhNj3-95xPFJbGCs&usqp=CAU" />
+ <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvLGA1-WFcSItOLOFoJr7QmFmXdzt9mzeEnh7fnxR93LhOc0WKP2NrhNj3-95xPFJbGCs&usqp=CAU" style="width:500px;height:600px;" />
 </h1>
 <!--
 **Niloy-Nil/Niloy-Nil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

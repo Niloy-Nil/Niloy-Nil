@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src="https://e1.pxfuel.com/desktop-wallpaper/672/719/desktop-wallpaper-asur-terror-bgm-thumbnail.jpg" style="width:1000px;height:200px;" />
+ <img src="https://e1.pxfuel.com/desktop-wallpaper/672/719/desktop-wallpaper-asur-terror-bgm-thumbnail.jpg" style="width:1100px;height:200px;" />
 </h1>
 <!--
 **Niloy-Nil/Niloy-Nil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
